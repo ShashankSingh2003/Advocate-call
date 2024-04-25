@@ -1,0 +1,5 @@
+.card.active {
+    border: 2px solid var(--falcon-primary);
+    color:var(--falcon-primary);
+    font-weight: 600;
+  }
